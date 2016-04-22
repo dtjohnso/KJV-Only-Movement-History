@@ -1,6 +1,6 @@
 % History of the KJV-Only movement within Fundamentalism
 % Duncan Johnson
-% 9 March 2013
+% 9 March 2013 (minor edit 22 April 2016)
 
 # Acknowledgement: Main Source
 
@@ -102,7 +102,7 @@ all other ancient texts."[^2]
 - Forerunners of the KJV-Only Movement
 - The Battle for the King James Version
 	+ David Otis Fuller (1903--1988)
-	+ Peter Ruckman (1921--)
+	+ Peter Ruckman (1921--April 21, 2016)
 - Contemporary Combatants
 
 ---
@@ -182,7 +182,7 @@ Evaluation:
 
 ## The Battle for the King James Version
 
-### Peter Ruckman (1921--)
+### Peter Ruckman (1921--April 21, 2016)
 
 ![](images/ruckman.jpg)
 
@@ -199,7 +199,7 @@ Evaluation:
 
 ## The Battle for the King James Version
 
-### Peter Ruckman (1921--)
+### Peter Ruckman (1921--April 21, 2016)
 
 ![](images/ruckman.jpg)
 
@@ -212,7 +212,7 @@ Evaluation:
 
 ## The Battle for the King James Version
 
-### Peter Ruckman (1921--)
+### Peter Ruckman (1921--April 21, 2016)
 
 ![](images/ruckman.jpg)
 
